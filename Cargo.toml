@@ -1,0 +1,8 @@
+[package]
+name = "uses-cf"
+version = "0.1.0"
+authors = ["Brian C. Lane <bcl@redhat.com>"]
+
+[dependencies]
+clap = "2.20.*"
+reqwest = "0.4.*"
